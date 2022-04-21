@@ -1,11 +1,11 @@
+![Audiopedia Web App in Nigeria](https://audiopedia.io/Nigeria2.jpg)
+_Community Health Worker introducing the Audiopedia Web App, part of the Open Source for Equality project, in  Ngenevu, Nigeria_
+
 # Welcome to Open Source for Equality
 
 Owning a mobile phone and having access to the internet can change lives. Yet millions of women in developing countries are unable to take advantage of the mobile internet. The main reasons for this are lack of literacy and digital skills.
 
 Together, we can change this. Open Source for Equality (OSEQ, [OSEQ.org](www.oseq.org)) is a global initiative to promote the development and use of free and open software that bridges the digital gender gap.
-
-![Audiopedia Web App in Nigeria](https://audiopedia.io/Nigeria2.jpg)
-_Community Health Worker introducing the Audiopedia Web App, part of the Open Source for Equality project, in  Ngenevu, Nigeria_
 
 # Hacking Gender Equality
 
