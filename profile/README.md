@@ -7,7 +7,7 @@ Owning a mobile phone and having access to the internet can change lives. Yet mi
 
 Together, we can change this. Open Source for Equality (OSEQ, [OSEQ.org](www.oseq.org)) is a global initiative to promote the development and use of free and open software that bridges the digital gender gap.
 
-# Hacking Gender Equality
+## Hacking Gender Equality
 
 The aim of OSEQ is to bring together software developers, content creators, development organizations and to create local ecosystems where open software for development thrives. OSEQ-powered projects have been implemented in Nigeria, India, Pakistan, Rwanda, Tanzania, Uganda, Ethiopia and Nicaragua.
 
