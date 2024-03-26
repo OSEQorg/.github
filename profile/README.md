@@ -15,4 +15,4 @@ Digital Public Goods (DPGs) like those developed by OSEQ are one of the cornerst
 
 Digital Public Goods play an important role in three major aspects: they can help bridge digital gaps by providing accessible digital tools, they can help local organizations in their digital transformation process and they can provide income generating opportunities for local entrepreneurs, developers and content creators.
 
-OSEQ is lead by URIDU, a pioneering nonprofit organization in the field of accessible education for marginalized women. 
+OSEQ is lead by [Audiopedia Foundation](www.audiopedia.foundation), a pioneering nonprofit organization in the field of accessible education for marginalized women. 
